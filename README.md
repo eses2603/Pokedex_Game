@@ -14,4 +14,4 @@ This project can be a great starting point for those who want to develop a simpl
 
 <h2>Screen_Shoot</h2>
 
-![](screen_pokedex-project.gif)
+![](screen_pokedex_project.gif)
